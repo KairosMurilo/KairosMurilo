@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 |- Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Campinas** (5º semestre), com formação técnica em Informática pelo **Instituto Federal do Sul de Minas Gerais**. Busco minha primeira oportunidade de estágio na área de tecnologia, onde possa aplicar meus conhecimentos acadêmicos e continuar evoluindo.
 
@@ -14,7 +14,7 @@ Além da programação, tenho experiência como **artista digital freelancer**, 
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 |- Tecnologias & Ferramentas
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,7 +30,7 @@ Além da programação, tenho experiência como **artista digital freelancer**, 
 
 ---
 
-### 📚 Educação
+### 📚 |- Educação
 
 | Período | Instituição | Curso |
 |---|---|---|
@@ -39,7 +39,7 @@ Além da programação, tenho experiência como **artista digital freelancer**, 
 
 ---
 
-### 💡 Conhecimentos
+### 💡 |- Conhecimentos
 
 - Lógica de programação e estruturas de dados
 - Desenvolvimento de aplicações com operações **CRUD**
@@ -50,7 +50,7 @@ Além da programação, tenho experiência como **artista digital freelancer**, 
 
 ---
 
-### 🤝 Soft Skills
+### 🤝 |- Soft Skills
 
 - 💬 Boa comunicação
 - 🤝 Trabalho em equipe
@@ -60,7 +60,7 @@ Além da programação, tenho experiência como **artista digital freelancer**, 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 |- GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kairosmurilo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -69,7 +69,7 @@ Além da programação, tenho experiência como **artista digital freelancer**, 
 
 ---
 
-### 📫 Contato
+### 📫 |- Contato
 
 <p>
   <a href="mailto:kairosmmatos@gmail.com">
