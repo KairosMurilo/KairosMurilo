@@ -1,41 +1,87 @@
-# Olá, eu sou o Kairos Murilo! 👋
+<h1 align="center">Olá, eu sou o Kairos Murilo 👋</h1>
 
-[cite_start]Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Campinas**[cite: 10, 11]. [cite_start]Sou apaixonado por tecnologia e busco constantemente aplicar meus conhecimentos acadêmicos em soluções práticas e eficientes[cite: 3, 4].
-
-## 🚀 Sobre Mim
-- [cite_start]🎓 Cursando o 5º semestre de ADS[cite: 15].
-- [cite_start]👨‍💻 Técnico em Informática pelo IFSULDEMINAS[cite: 7, 8].
-- [cite_start]💡 Foco em lógica de programação, bancos de dados relacionais e desenvolvimento backend[cite: 21, 22].
-- [cite_start]🎨 Experiência prévia como Artista Digital Freelancer, o que me trouxe grandes habilidades em gestão de prazos e comunicação com clientes[cite: 39, 40, 41].
-
-## 🛠️ Tecnologias e Habilidades
-
-### Linguagens e Frameworks
-- [cite_start]**Linguagens:** Python, Java e C[cite: 17].
-- [cite_start]**Web:** HTML, CSS e JavaScript (Básico)[cite: 18].
-- [cite_start]**Banco de Dados:** MySQL[cite: 19].
-
-### Ferramentas e Conceitos
-- [cite_start]**Versionamento:** Git e GitHub[cite: 20].
-- [cite_start]**Conceitos:** CRUD, Lógica de Programação e Banco de Dados Relacional[cite: 21, 22].
-- [cite_start]**Soft Skills:** Trabalho em equipe, proatividade e facilidade de aprendizado[cite: 33, 35, 36].
-- [cite_start]**Idiomas:** Inglês Intermediário[cite: 37].
+<p align="center">
+  <em>Estudante de Análise e Desenvolvimento de Sistemas • Apaixonado por tecnologia e arte digital</em>
+</p>
 
 ---
 
-## 📂 Projetos em Destaque
+### 🧑‍💻 Sobre mim
 
-### [CRUD de Usuários em Python]
-Um sistema de gerenciamento de usuários via console desenvolvido para exercitar a lógica de persistência em memória, validação de dados e estruturação modular de código.
-- **Tecnologias:** Python.
-- **Destaque:** Implementação de funções de busca, criação, edição e remoção com interface simplificada.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Campinas** (5º semestre), com formação técnica em Informática pelo **Instituto Federal do Sul de Minas Gerais**. Busco minha primeira oportunidade de estágio na área de tecnologia, onde possa aplicar meus conhecimentos acadêmicos e continuar evoluindo.
+
+Além da programação, tenho experiência como **artista digital freelancer**, o que me desenvolveu habilidades como gestão de demandas, comunicação com clientes e organização de prazos — competências que levo para o mundo do desenvolvimento.
+
+---
+
+### 🚀 Tecnologias & Ferramentas
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contato
-- [cite_start]**LinkedIn:** [linkedin.com/in/kairosmurilo](https://www.linkedin.com/in/kairosmurilo) [cite: 29]
-- [cite_start]**E-mail:** [kairosmmatos@gmail.com](mailto:kairosmmatos@gmail.com) [cite: 26]
-- [cite_start]**Telefone:** (19) 98981-3261 [cite: 25]
+### 📚 Educação
+
+| Período | Instituição | Curso |
+|---|---|---|
+| 2024 – 2026 | FATEC Campinas | Análise e Desenvolvimento de Sistemas |
+| 2021 – 2023 | IFSULDEMINAS – Inconfidentes/MG | Técnico em Informática |
 
 ---
-*Estudante em evolução, focado em transformar café em código e problemas em soluções.* ☕💻
+
+### 💡 Conhecimentos
+
+- Lógica de programação e estruturas de dados
+- Desenvolvimento de aplicações com operações **CRUD**
+- Banco de dados relacional com **MySQL**
+- Versionamento de código com **Git & GitHub**
+- Noções de desenvolvimento web (HTML, CSS, JS)
+- Inglês intermediário (leitura técnica e documentações)
+
+---
+
+### 🤝 Soft Skills
+
+- 💬 Boa comunicação
+- 🤝 Trabalho em equipe
+- 📋 Organização e gestão de prazos
+- ⚡ Proatividade
+- 📖 Facilidade de aprendizado
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kairosmurilo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairosmurilo&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Contato
+
+<p>
+  <a href="mailto:kairosmmatos@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kairosmurilo" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Sempre aprendendo, sempre evoluindo." 🚀</em>
+</p>
