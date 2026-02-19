@@ -34,7 +34,7 @@ Além da programação, tenho experiência como **artista digital freelancer**, 
 
 | Período | Instituição | Curso |
 |---|---|---|
-| 2024 – 2026 | FATEC Campinas | Análise e Desenvolvimento de Sistemas |
+| 2024 – 202* | FATEC Campinas | Análise e Desenvolvimento de Sistemas |
 | 2021 – 2023 | IFSULDEMINAS – Inconfidentes/MG | Técnico em Informática |
 
 ---
